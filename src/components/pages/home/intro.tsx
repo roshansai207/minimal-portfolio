@@ -16,6 +16,8 @@ export function Intro() {
             alt={INTRO.profilePic.alt}
             width={1000}
             height={500}
+            loading='lazy'
+            unoptimized
           />
         </div>
         <div>
