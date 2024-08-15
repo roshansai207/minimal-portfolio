@@ -2,8 +2,8 @@ import { LinkedIn } from '@/components/global/icons';
 import { Mail, Phone } from 'lucide-react';
 
 export const INTRO = {
-  name: 'Rahul Palamarthi',
-  role: "I'm a software engineer, who loves to craft things with TypeScript",
+  name: 'Roshan Palamarthi',
+  role: "I'm a software engineer, who loves Rahul",
   description: 'Passionate programmer, Self-taught Developer, Open Source Contributor',
   location: {
     value: 'Bangalore',
