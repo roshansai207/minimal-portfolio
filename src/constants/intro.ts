@@ -3,7 +3,7 @@ import { Mail, Phone } from 'lucide-react';
 
 export const INTRO = {
   name: 'Roshan Palamarthi',
-  role: "I'm a software engineer, who loves Rahul",
+  role: "I'm a software engineer,",
   description: 'Passionate programmer, Self-taught Developer, Open Source Contributor',
   location: {
     value: 'Bangalore',
