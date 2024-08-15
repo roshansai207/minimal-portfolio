@@ -11,8 +11,8 @@ export const INTRO = {
     coordinates: [12.9716, 77.5946] as const,
   },
   profilePic: {
-    src: 'profile-pic.jpeg',
-    alt: 'profile-pic',
+    src: 'roshan-profile-pic.jpeg',
+    alt: 'roshan-profile-pic',
   },
   socialLinks: [
     {
