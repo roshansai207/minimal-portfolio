@@ -10,8 +10,8 @@ export const educationSchema = z.object({
 export const EDUCATION: z.infer<typeof educationSchema>[] = [
   {
     id: 1,
-    college: 'Bangalore Technological Institute, Bengaluru',
-    branch: "Bachelor's Degree in Electrical and Electronics Engineering",
-    duration: '2020 - 2024',
+    college: 'Bangalore Technological Institute, Bangalore',
+    branch: "Bachelor's Degree in Electrical and Communication Engineering",
+    duration: '2017 - 2021',
   },
 ];

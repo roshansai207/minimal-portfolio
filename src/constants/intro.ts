@@ -3,11 +3,11 @@ import { Mail, Phone } from 'lucide-react';
 
 export const INTRO = {
   name: 'Roshan Palamarthi',
-  role: "I'm a software engineer,",
+  role: "I'm a Software Automation Test Engineer",
   description: 'Passionate programmer, Self-taught Developer, Open Source Contributor',
   location: {
     value: 'Bangalore',
-    href: 'https://www.google.com/maps/place/Chirala',
+    href: 'https://www.google.com/maps/place/Bengaluru',
     coordinates: [12.9716, 77.5946] as const,
   },
   profilePic: {
@@ -18,7 +18,7 @@ export const INTRO = {
     {
       icon: LinkedIn,
       label: 'linkedin',
-      href: 'https://www.linkedin.com/in/rahul-palamarthi',
+      href: 'https://www.linkedin.com/in/roshan-sai',
     },
   ],
 
@@ -26,14 +26,14 @@ export const INTRO = {
     {
       icon: Mail,
       label: 'gmail',
-      href: 'mailto:rahulpalamarthi@gmail.com',
-      value: 'rahulpalamarthi@gmail.com',
+      href: 'mailto:roshansai207@gmail.com',
+      value: 'roshansai207@gmail.com',
     },
     {
       icon: Phone,
       label: 'phone',
-      href: 'tel:+919515989271',
-      value: '+919515989271',
+      href: 'tel:+918861688207',
+      value: '+918861688207',
     },
   ],
 };
