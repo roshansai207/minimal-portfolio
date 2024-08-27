@@ -1,4 +1,5 @@
 import { About } from '@/components/pages/home/about';
+import { Achievements } from '@/components/pages/home/achievements';
 import { Education } from '@/components/pages/home/education';
 import { Experience } from '@/components/pages/home/experience';
 import { Intro } from '@/components/pages/home/intro';
@@ -16,6 +17,7 @@ export default function Page() {
       <Skills />
       <Tools />
       <ToolsAndSkills />
+      <Achievements />
       <section className='absolute inset-x-0 top-0 h-[75vh] !mt-0 z-[-2] background-designs-wrapper'>
         <div className='inset-0 absolute z-[2] bg-gradient-to-b from-transparent to-background' />
         <div className='background-stripes w-full h-full z-[-2]' />
